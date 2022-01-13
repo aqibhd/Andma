@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndmaApp</string>
+    <string name="andma_logo">Andma logo</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="andma_logo_small">Andma logo small</string>
+    <string name="custom_btn">Custom btn</string>
+    <string name="theme_btn">theme btn</string>
+    <string name="success_btn">Success btn</string>
+    <string name="info_btn">Info btn</string>
+    <string name="error_btn">Error btn</string>
+    <string name="warning_btn">Warning btn</string>
+    <string name="default_btn">Default btn</string>
+</resources>
